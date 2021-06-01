@@ -1,6 +1,6 @@
 # Epitech_Multiplayer_Platformer  
 This Multiplayer local platfromer was made for the cursur of EPITECH during the JAM#2 organised by the HUB with all other Epitech schools.  
-This Prject was made with my team : @roblevepi Thomas Balthazar Maxime and me  
+This Prject was made with my team : @roblevepi Thomas @balthi-tech @maxime-dodin and me  
 
 `#Play`  
 On linux : build/app.x86_64  

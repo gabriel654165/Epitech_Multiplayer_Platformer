@@ -1,5 +1,6 @@
 # Epitech_Multiplayer_Platformer  
 This Multiplayer local platfromer was made for the cursur of EPITECH during the JAM#2 organised by the HUB with all other Epitech schools.  
+We got the first place on this Jam, the theme was "US" and few contraints were given (nyan cat, multi-language...)
 Made with Unity2D it was my second project.  
 This Prject was made with my team : @roblevepi Thomas @balthi-tech @maxime-dodin and me  
 

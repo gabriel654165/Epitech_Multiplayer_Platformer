@@ -5,6 +5,7 @@ Made with Unity2D it was my second project.
 This Prject was made with my team : @roblevepi Thomas @balthi-tech @maxime-dodin and me  
 
 `#Play`  
+You can play by clicking on the executable without dowload Unity of course, clone the project and follow the steps :  
 On linux : build/app.x86_64  
 On Windows : build/app_Windows/UnityCrashHandler64.exe  
 Don't pay attention for the executable's names  

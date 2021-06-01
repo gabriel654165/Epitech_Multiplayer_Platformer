@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Maxime.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 07f1e63568f20a17eb9ec24d70d3848b
+  - enabled: 1
+    path: Assets/Scenes/new_world.unity
+    guid: bbed3cc49225f69b48810266186af921
+  - enabled: 0
+    path: Assets/Scenes/Game.unity
+    guid: f49700123676302d6b8b590439503f8f
+  - enabled: 1
+    path: Assets/Scenes/OptionsMenu.unity
+    guid: be6ca4d4631880c41a50bfaf8d73804e
+  - enabled: 0
+    path: Assets/Scenes/balthi.unity
+    guid: 38199a8ba7627b6f694bf2f696f3d584
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: dfacad201386703cb995fbec3946fecf
+  m_configObjects: {}

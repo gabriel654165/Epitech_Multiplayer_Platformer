@@ -1,0 +1,12 @@
+PLAY=Play
+SETTINGS=Settings
+QUIT=Quit
+BACK=Back
+VOLUME=Volume
+SPEED=Speed [r]
+FREEZE=Freeze [Click]
+INVERT=Invert [z]
+TEXT=God Mode
+GAMEOVER=Game Over
+RESTART=Restart
+MENU=Menu

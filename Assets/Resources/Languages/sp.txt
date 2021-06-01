@@ -1,0 +1,12 @@
+PLAY=Jugar
+SETTINGS=Opciones
+QUIT=Dejar
+BACK=Regreso
+VOLUME=Volumen
+SPEED=Velocidad [r]
+FREEZE=Frizar [Clicar]
+INVERT=Invertir [z]
+TEXT=modo de Dios
+GAMEOVER=Juego Terminado
+RESTART=Reiniciar
+MENU=Menu

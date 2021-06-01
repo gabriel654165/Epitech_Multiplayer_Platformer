@@ -1,0 +1,12 @@
+PLAY=Jouer
+SETTINGS=Options
+QUIT=Quitter
+BACK=Retour
+VOLUME=Volume
+SPEED=Vitesse [r]
+FREEZE=Geler [Cliquer]
+INVERT=Inverser [z]
+TEXT=Mode Dieu
+GAMEOVER=Echec
+RESTART=Recommencer
+MENU=Menu
